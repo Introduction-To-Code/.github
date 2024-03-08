@@ -1,4 +1,4 @@
-[](itc-logo)
+![ITC](itc-logo)
 # Introduction To Code
 > An organization created by Myfer to help newcomers learn coding!
 
