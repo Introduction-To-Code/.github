@@ -7,5 +7,5 @@ Lessons will be marked with `Lesson.` in their description
 
 # Lessons:
 [The full introduction to Web Development.](https://github.com/Introduction-To-Code/the-full-introduction-to-web-development.)
-[Learn HTML](https://github.com/Introduction-To-Code/learn-html/)
+<br>[Learn HTML](https://github.com/Introduction-To-Code/learn-html/)
 ###### [VIEW OUR LICENSE](LICENSE)
