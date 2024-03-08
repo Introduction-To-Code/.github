@@ -1,4 +1,4 @@
-![ITC](itc-logo)
+![ITC](https://github.com/Introduction-To-Code/.github/blob/main/profile/itc-logo.png)
 # Introduction To Code
 > An organization created by Myfer to help newcomers learn coding!
 
